@@ -1,0 +1,15 @@
+PyPDF2
+langchain
+streamlit
+openai
+docx
+openpyxl
+Pillow
+pandas
+networkx
+pyvis
+matplotlib
+langchain-community
+langchain-experimental
+py2neo
+

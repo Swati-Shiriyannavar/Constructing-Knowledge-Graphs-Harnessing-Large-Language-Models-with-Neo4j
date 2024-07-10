@@ -1,0 +1,11 @@
+Databricks, Inc. is a global data, analytics and artificial intelligence company founded by the original creators of Apache Spark.[3]
+
+The company provides a cloud-based platform to help enterprises build, scale, and govern data and AI, including generative AI and other machine learning models.[4]
+
+Databricks pioneered the data lakehouse, a data and AI platform that combines the capabilities of a data warehouse with a data lake, allowing organizations to manage and use both structured and unstructured data for traditional business analytics and AI workloads.[5]
+
+Databricks acquired MosaicML for $1.4 billion in June 2023, its largest acquisition.[6]
+
+In November 2023, Databricks unveiled the Databricks Data Intelligence Platform, a new offering that combines the unification benefits of the lakehouse with MosaicML’s Generative AI technology to enable customers to better understand and use their own proprietary data.[7]
+
+The company develops Delta Lake, an open-source project to bring reliability to data lakes for machine learning and other data science use cases.

@@ -1,0 +1,185 @@
+Table of Contents 
+
+Item 1. Business 
+
+PART I 
+
+We  provide  comprehensive  data  solutions  designed  to  empower  organizations  across  the  semiconductor  and 
+electronics  ecosystems  to  improve  the  yield  and  quality  of  their  products  and  operational  efficiency  for  increased 
+profitability. We derive revenues from two sources, Analytics and Integrated Yield Ramp. Our offerings contribute to 
+Analytics  revenue  through  contract  fees  for  on-premise  software  and  hardware  system  licenses,  software-as-a-service 
+(“SaaS”), and other professional services. Certain of our Characterization services engagements contribute to Integrated 
+Yield Ramp revenue through contract fees and a value-based, variable fee or royalty, which we call Gainshare. We are 
+headquartered in Santa Clara, California and also operate worldwide with offices in Canada, China, France, Germany, 
+Italy, Japan, South Korea, and Taiwan. 
+
+Business Overview 
+
+Our customers include Fortune 500 companies across the semiconductor and electronics ecosystem. These companies 
+use our products and services to achieve various goals depending on whether they are integrated device manufacturers 
+(“IDMs”),  fabless  semiconductor  companies,  foundries,  equipment  manufacturers,  electronics  manufacturing  suppliers 
+(“EMS”), original device manufacturers (“ODMs”), outsourced semiconductor assembly and test (“OSATs”), or system 
+houses. For example, our foundry customers generate and analyze key manufacturing data using our solutions to shorten 
+the time necessary for technology development and to provide their fabless customers with a higher yielding process with 
+improved electrical performance, which are both critical metrics for market success. Higher yields in less time can also 
+mean less total raw materials and process runs, which help lower customers’ total cost and minimize environmental impact. 
+Also, equipment manufacturers and factories use our connectivity products to implement evolving industry standards for 
+their equipment or operations, respectively, with required quality and stability. By way of further example, our IDM and 
+fabless customers use our solutions to generate unique, differentiated data that can be analyzed with our machine learning 
+(“ML”) and artificial intelligence (“AI”) algorithms to predict downstream manufacturing issues, resulting in shorter time 
+for  designs  to  meet  performance  requirements  with  fewer  iterations  and  faster  time-to-market.  For  final  example,  our 
+foundry and OSAT customers use the AI and ML applications of our software to optimize for process control, assembly, 
+and/or test. 
+
+Our mission is to provide innovative solutions to create, access, and organize data to enable analysis and control for 
+semiconductor and electronics companies to achieve better time-to-market, yields, quality, and operational efficiencies. 
+Our strategy to achieve this is as follows: 
+
+•  Offer a Common, Flexible Platform for a Broad Group of Customers Across the Supply Chain. As semiconductor 
+and electronics products are made with the efforts of equipment manufacturers, front-end foundries, chip and 
+system designers, design automation, intellectual property (“IP”) providers, and OSATs, there is a need to analyze 
+data across this whole chain to optimize yields, operational efficiencies, time to market, quality, and reliability. 
+Our  comprehensive  platform  is  designed  based  on  industry  standards  and  integrated  with  leading  solutions 
+providers to enable these different participants to analyze the relevant end-to-end data in near real-time, with 
+cloud  or  on-premise  data  stores  from  10s  to  100s  of  terabytes  (“TBs”)  and  flexible  configurations  for  IDM, 
+foundry, fabless, and OSAT specific needs. Our ML solutions combine professional services with our Exensio 
+software to further enable our customers to push their analytics “to the edge” of their global supply chains and 
+shift  the  analysis  and  decision-making  processes  closer  to  where  their  data  is  being  generated.  We  believe 
+enabling  edge  analytics  will  further  increase  our  customers’  ability  to  improve  product  yield,  quality, 
+performance, and profitability, and therefore, should drive the market for our products and services. 
+
+•  Drive Tool-Level Software Installations to Create an Infrastructure of Connected Equipment and Enable Smart 
+Factories. We believe that driving installation of our Exensio and Cimetrix software products at the tool level 
+will  help  provide  an  infrastructure  of  connected  equipment  and  help  to  enable  smart  factories.  Our  Cimetrix 
+products are based on open standards for equipment control and connectivity to equipment manufacturers and 
+factories, which we believe will be more in demand in the smart manufacturing era. Further, we believe that the 
+
+4 
+
+Table of Contents 
+
+benefits from integration between analytics on equipment, the factory, and in the cloud will provide synergies 
+with our existing end-to-end analytics offerings. 
+
+•  Create Differentiated Data Sources for Better Analytics. Historically, companies have only used data that was 
+generated  from  their  manufacturing  and  test  process  to  drive  improvements.  We  offer  unique  IP  (such  as 
+Characterization Vehicle® test chips, also branded CV® test chips) that is not part of an integrated circuit’s (“IC”) 
+functionality, but significantly improves the manufacturing process by improving yield learning and reducing 
+time to market. Also, our Design-for-Inspection™ system (also branded DFI™ system) identifies blockers that 
+impact product yield and quality up to months earlier than any other hardware- or software-based methodology 
+from proprietary e-beam measurement of product layout or provided on-chip instrumentation. We believe that in 
+the More-than-Moore (“MtM”) era, the differentiated data we provide can play an important role in enabling our 
+customers to bring new products to market faster and with higher quality and performance, and, ultimately, more 
+profitability. 
+
+•  Collaborate with Other Industry Leaders to Bring Additional Unique Data to Our Platform and Enable New and 
+Differentiated Applications. We believe that the value we bring to semiconductor manufacturing can be leveraged 
+with  additional  data  and  through  differentiated  applications.  For  example,  in  2023,  we  started  offering  an 
+enterprise application integration module called Sapience™ Manufacturing Hub, which is designed to collect and 
+unify data from enterprise applications, such as manufacturing execution systems (“MES”), enterprise resource 
+planning  systems  (“ERP”)  like  SAP  S/4HANA®,  and  our  Exensio  software,  and  make  such  data  available 
+through a central interface. Also in 2023, working with Siemens Digital Industries Software, we started offering 
+two new Exensio modules, Exensio AIM Scan Analytics and Exensio AIM Scan Systematics Diagnostics, which 
+are  designed  to  enablediagnostic  accuracy  and  efficiency  of  fail  mode  to  help  our  customers  that  also  use 
+Siemens’s  Tessent  software  determine  the  electrical  and  physical  failing  locations  for  product  and  process 
+improvements. Building relationships with other industry leaders is intended to provide more ways for mutual 
+customers  to  leverage  their  process  and  product  data  as  part  of  their  Industry  4.0  initiatives.  Differentiated 
+applications that make use of this shared data are designed to provide unique insights to help customers achieve 
+sustained profitability in their manufacturing. 
+
+Brief History 
+
+PDF  Solutions  was  incorporated  in  Pennsylvania  in  November 1992,  and  we  reincorporated  in  California  in 
+November 1995. In July 2000, we reincorporated in Delaware, and in July 2001, we completed an initial public offering. 
+Our shares of common stock are currently traded on the Nasdaq Global Market under the symbol “PDFS”. 
+
+From  2000  through  2009,  we  expanded  our  technology  footprint  and  our  operations  in  various  countries  through 
+acquisitions. From 2009 to 2019, we primarily focused on the pervasive application of our technology to leading edge 
+logic manufacturing and achieving yield targets with our clients that maximized Gainshare royalties. In 2013, we leveraged 
+our  extensive  experience  in  yield  simulation  software  and  CV®  test  chip  development  and  started  research  and 
+development on an e-beam solution for non-contact, inline electrical inspection and process control for wafer inspection. 
+
+In a parallel effort, starting in 2014, we re-architected our point-solution software tools into a new generation, highly-
+
+integrated data analytics Exensio software, which resulted in accelerated growth in revenues from software through 2019.  
+Starting in 2020, after our acquisition of Cimetrix Incorporated (“Cimetrix”), we began providing software products based 
+on open standards for equipment control and connectivity to equipment manufacturers and factories. 
+
+We released our first eProbe tool in 2015, the second generation in 2019, and the third generation in late 2022. The 
+
+improvements in the third generation included:  
+
+• 
+
+• 
+
+• 
+
+higher resolution and improved beam vector targeting, enabling use for leading-edge, middle-of-line applications; 
+
+higher throughput; and 
+
+better manufacturability and repeatable column performance. 
+
+5 
+
+Table of Contents 
+
+Industry Background 
+
+Rapid technological innovation with increasingly shorter product life cycles has fueled the economic growth of the 
+semiconductor industry since the days of the PC revolution. IC companies have historically ramped production slowly, 
+produced at high volume once a product gained market acceptance, and slowly reduced production volume when price 
+and demand started to decrease near the end of the product’s life cycle. Today there are many different business models 
+across the semiconductor industry: products that follow the traditional life cycle just described, products targeted towards 
+fast-moving  market  segments  like  Internet  of  Things –  which  utilize  mature  process  nodes  and  require  a  fast  ramp  to 
+volume with a relatively short life cycle, and products focused on long term market segments like automotive and industrial 
+where product life cycles can last a decade or longer. There is a lot of variation across these business models depending 
+on  the  level  of  design  complexity  and  the  maturity  of  the  process  node  used  for  product  implementation.  Processors, 
+memory  and  field-programmable  gate  arrays  (“FPGA”)  continue  to  leverage  the  most  advanced  process  nodes  and 
+experience significant  challenges  to  achieve  competitive  initial  yields  and  optimized  performance.  Some  products  and 
+market  segments,  however,  are  content  to  utilize  older  process  nodes.  Regardless  of  the  process  node  used  for 
+implementation or how long the product will be sold in the market, success for every semiconductor company is predicated, 
+among other things, on fast product yield ramp and the ability to optimize manufacturing and test metrics, such as yield 
+reclamation, product quality, and test efficiency, throughout a product’s life cycle. Thus, technologies or capabilities that 
+can accelerate yield ramp, improve product quality, and optimize production efficiencies are highly sought after because 
+they typically lead to cost reduction and revenue generation concurrently, causing a leveraged effect on profitability. 
+
+Technology and Intellectual Property Protection 
+
+Our  success  is  largely  dependent  upon  our  proprietary  software.  We  believe  the  creative  skills  and  technological 
+ability of our personnel, product enhancements, and new product development are necessary to maintaining our position 
+as a leading provider. We rely primarily on trade secret rights, copyright laws, and nondisclosure and other contractual 
+agreements to protect our software.  
+
+In addition, our success is dependent on various inventions we have made and we seek to protect certain of our IP 
+under patent laws. As of December 31, 2023, we held 115 U.S. patents, with expiration dates on issued patents ranging 
+from 2024 through 2042. We intend to prepare additional patent applications when we feel it is beneficial. Some of the 
+technology we protect by patent includes elements of our CV and DFI systems and inventions related to AI/ML. 
+
+We  protect  our  trademarks  with  registration  of  marks,  including  Characterization  Vehicle,  Cimetrix,  CV,  eProbe, 
+Exensio, pdFasTest, PDF Solutions, and the PDF Solutions and Cimetrix logos. We have common law rights to additional 
+trademarks, including ALPS, DFI, DirectProbe, DirectScan, Fire, and Sapience.  
+
+We  enter  into  confidentiality  and  inventions  assignment  agreements  with  our  employees  and  confidentiality  and 
+license agreements with our customers and the various parties we partner with to resell, distribute, and, in some cases, 
+integrate our products. Further, we limit access to and distribution of our software, documentation and other proprietary 
+information.  
+
+Third  parties  could  in  any  case  develop  competing  technologies  that  include  similar  functionality  or  features,  or 
+otherwise are substantially equivalent or superior to our technologies. In addition, effective patent, copyright, trademark 
+and trade secret protection may be unavailable or limited in certain foreign countries where we operate. Our business could 
+suffer significantly if we fail to protect our proprietary technology. 
+
+In  addition,  through  yield,  performance,  and  reliability  improvement  services  over  more  than  20 years,  we  have 
+accumulated a vast library of physical IP in the form of test structures. As part of our DFI and CV systems, our engineers 
+create  designs  of  experiments  (“DOEs”)  and  layouts  for  targeted  fail  modes.  We  have  also  developed  electrical 
+measurement  hardware  tools  and  proprietary  extraction,  design,  and  analysis  software.  In  addition,  our  technology 
+embodies  many  production-proven  and  patented  algorithms.  Further,  our  IP  includes  proven  methodologies  that  our 
+implementation teams use as guidelines to drive our customers’ use of our technology. We strive to continually enhance 
+our  core  technologies  through  the  codification  of  knowledge  that  we  gain  in  the  use  of  our  products  and  delivery  of 
+services. 
+
+6 
+
+

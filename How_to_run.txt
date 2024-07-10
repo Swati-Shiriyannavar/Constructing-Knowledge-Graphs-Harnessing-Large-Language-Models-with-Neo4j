@@ -1,0 +1,49 @@
+Detailed steps to run the provided code (final_app.py) along with the prerequisites and instructions for setting up Neo4j:
+
+Prerequisites:
+Python and Pip: Make sure you have Python installed on your system. 
+You can download it from python.org. Pip comes bundled with Python installation.
+
+Neo4j: You'll need to install Neo4j, which is a graph database management system. 
+You can download it from neo4j.com
+
+Setting up Neo4j:
+Download and Install Neo4j:
+
+Download the appropriate version of Neo4j for your operating system.
+Follow the installation instructions provided by Neo4j for your operating system.
+Start Neo4j:
+
+After installation, start the Neo4j service. 
+This typically involves running a command like neo4j start or starting the Neo4j service from your system services panel.
+Access Neo4j Browser:
+
+
+The first time you access Neo4j Browser, you'll be prompted to set a username and password. 
+Follow the instructions to set these credentials.
+
+Create Local DBMS, start the DBMS, install APOC plugins
+After setting up credentials, change these details in final_app.py, on line 50
+
+Running the Python Code:
+Install Required Python Libraries:
+
+Open a terminal or command prompt.
+Navigate to the directory containing final_app.py.
+
+Run the following command to install the required Python libraries:
+
+pip install streamlit py2neo pdfminer.six pyvis langchain langchain_openai langchain-community langchain-experimental
+
+OR
+
+pip install requirements.txt
+
+Run the Streamlit App:
+In the same terminal or command prompt, navigate to the directory containing final_app.py.
+
+Run the following command to start the Streamlit app:
+
+streamlit run final_app.py
+
+This command will start a local server hosting the Streamlit app.
